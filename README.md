@@ -15,3 +15,18 @@ MetricTime es una aplicación web que permite la gestión de diferentes métrica
     ● Broker de mensajería (bajo el protocolo mqtt).
     ● Documentación técnica y de usuario.
     ● Software para ejecución en hardware.
+
+### Metodologia (Scrum)
+
+**Product Owner:** Olga Lucero Vega Márquez.
+
+**Scrum Master:** Julián Leonardo Moreno Lesmes.
+
+**Scrum Team:** 
+![image](https://user-images.githubusercontent.com/34410986/183268735-75439d07-40e1-4469-a8e3-9983e1367320.png)
+![image](https://user-images.githubusercontent.com/34410986/183268746-10a37ea4-6663-45ee-afce-13ef5d3bdff1.png)
+![image](https://user-images.githubusercontent.com/34410986/183268755-9fe21394-2977-4b6b-83ef-12833d524fd7.png)
+![image](https://user-images.githubusercontent.com/34410986/183268758-4daa6e82-fe0e-4d61-997e-99eca1a52619.png)
+![image](https://user-images.githubusercontent.com/34410986/183268764-057ff53d-8257-4485-a232-2e85c57482d6.png)
+
+Los roles se establecen de forma fija. Sin embargo, cualquier persona del equipo de desarrollo puede colaborar en otro sector o tarea siendo de apoyo en un rol diferente al suyo. Existen roles incluidos dentro de los definidos. Por ejemplo, el Scrum Master a su vez será el que realiza las acciones de un ingeniero DevOps. Otro tema es el testing, cada desarrollador se encarga de realizar las pruebas sobre lo que él mismo desarrolló; igualmente se hace un testeo a todo el entregable una vez se haya finalizado.
