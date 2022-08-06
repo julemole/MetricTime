@@ -23,6 +23,7 @@ MetricTime es una aplicación web que permite la gestión de diferentes métrica
 **Scrum Master:** Julián Leonardo Moreno Lesmes.
 
 **Scrum Team:** 
+
 ![image](https://user-images.githubusercontent.com/34410986/183268735-75439d07-40e1-4469-a8e3-9983e1367320.png)
 ![image](https://user-images.githubusercontent.com/34410986/183268746-10a37ea4-6663-45ee-afce-13ef5d3bdff1.png)
 ![image](https://user-images.githubusercontent.com/34410986/183268755-9fe21394-2977-4b6b-83ef-12833d524fd7.png)
