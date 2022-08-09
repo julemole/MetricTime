@@ -28,8 +28,8 @@ Primer Sprint (funcional). Gestión de usuarios y gestión de agentes.
 **Scrum Team:** 
 
 ![image](https://user-images.githubusercontent.com/34410986/183268735-75439d07-40e1-4469-a8e3-9983e1367320.png)
-![image](https://user-images.githubusercontent.com/34410986/183268746-10a37ea4-6663-45ee-afce-13ef5d3bdff1.png)
-![image](https://user-images.githubusercontent.com/34410986/183268755-9fe21394-2977-4b6b-83ef-12833d524fd7.png)
+![image](https://user-images.githubusercontent.com/71906366/183544391-2d79c98c-1fde-4e53-912f-0ebbfbd6e310.png)
+![image](https://user-images.githubusercontent.com/71906366/183544423-e25de1b6-7c5e-487c-b93a-a94c42eda0e8.png)
 ![image](https://user-images.githubusercontent.com/34410986/183268758-4daa6e82-fe0e-4d61-997e-99eca1a52619.png)
 ![image](https://user-images.githubusercontent.com/34410986/183268764-057ff53d-8257-4485-a232-2e85c57482d6.png)
 
