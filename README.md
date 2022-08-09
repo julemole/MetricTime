@@ -39,3 +39,20 @@ Los roles se establecen de forma fija. Sin embargo, cualquier persona del equipo
 ### Implementación Metodología.
 
 El Scrum Master es el encargado de organizar las reuniones diarias o Scrum Daily para ir avanzando en el desarrollo del primer entregable. Previamente a comenzar con el desarrollo se crea un documento llamado Sprint Backlog (puede ser un Excel, se obtiene a partir del Product Backlog que incluye las tareas del proyecto en su totalidad) en el cual se divide todo el entregable en tareas. A estas tareas se les asigna un responsable del equipo Scrum, todo dependiendo del tipo de tarea y del rol (perfil) del miembro del equipo. Estas tareas también cuentan con un peso o nivel de dificultad que indica un estimado de tiempo para cumplirla. Dentro del Product Backlog se crea una hoja para cada miembro del equipo con las tareas asignadas en donde este va notificando el porcentaje de avance sobre cada actividad.
+
+
+## Interfaces
+
+### Iniciar Sesion
+
+![image](https://user-images.githubusercontent.com/34410986/183561288-3f2803b7-8095-4d0b-b1c9-8d1f05f308de.png)
+
+### Registrarse
+
+![image](https://user-images.githubusercontent.com/34410986/183561530-2a71b875-64aa-4c7c-8f9f-b5d6b4a50aa7.png)
+
+### Configuracion del perfil de usuario
+
+![image](https://user-images.githubusercontent.com/34410986/183561841-9c0e27f2-1d58-4e67-87d4-a5f7c0af9d2c.png)
+
+
