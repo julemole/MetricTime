@@ -26,12 +26,11 @@ Primer Sprint (funcional). Gestión de usuarios y gestión de agentes.
 **Scrum Master:** Julián Leonardo Moreno Lesmes.
 
 **Scrum Team:** 
-
-![image](https://user-images.githubusercontent.com/34410986/183268735-75439d07-40e1-4469-a8e3-9983e1367320.png)
-![image](https://user-images.githubusercontent.com/71906366/183544506-4508d08b-1f6e-45cd-9275-c8fe4255eb27.png)
-![image](https://user-images.githubusercontent.com/71906366/183544423-e25de1b6-7c5e-487c-b93a-a94c42eda0e8.png)
-![image](https://user-images.githubusercontent.com/34410986/183268758-4daa6e82-fe0e-4d61-997e-99eca1a52619.png)
-![image](https://user-images.githubusercontent.com/34410986/183268764-057ff53d-8257-4485-a232-2e85c57482d6.png)
+![image](https://user-images.githubusercontent.com/71906366/183544588-b0b5ef34-cb6f-4f40-94c8-eda7a62f6b8a.png)
+![image](https://user-images.githubusercontent.com/71906366/183544654-94f84a73-21d1-42df-8795-753aa8a066f0.png)
+![image](https://user-images.githubusercontent.com/71906366/183544674-0662e922-931f-4ccd-b779-37147f34c37b.png)
+![image](https://user-images.githubusercontent.com/71906366/183544716-72b04029-3a21-4e62-ba72-ca5b44ced005.png)
+![image](https://user-images.githubusercontent.com/71906366/183544732-33546979-d1b3-46f6-a55f-4b13c02825e9.png)
 
 Los roles se establecen de forma fija. Sin embargo, cualquier persona del equipo de desarrollo puede colaborar en otro sector o tarea siendo de apoyo en un rol diferente al suyo. Existen roles incluidos dentro de los definidos. Por ejemplo, el Scrum Master a su vez será el que realiza las acciones de un ingeniero DevOps. Otro tema es el testing, cada desarrollador se encarga de realizar las pruebas sobre lo que él mismo desarrolló; igualmente se hace un testeo a todo el entregable una vez se haya finalizado.
 
