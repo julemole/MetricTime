@@ -31,7 +31,8 @@ Primer Sprint (funcional). Gestión de usuarios y gestión de agentes.
 ![image](https://user-images.githubusercontent.com/71906366/183544654-94f84a73-21d1-42df-8795-753aa8a066f0.png)
 ![image](https://user-images.githubusercontent.com/71906366/183544674-0662e922-931f-4ccd-b779-37147f34c37b.png)
 ![image](https://user-images.githubusercontent.com/71906366/183544716-72b04029-3a21-4e62-ba72-ca5b44ced005.png)
-![image](https://user-images.githubusercontent.com/71906366/183544732-33546979-d1b3-46f6-a55f-4b13c02825e9.png)
+![image](https://user-images.githubusercontent.com/71906366/183544825-496f85fa-d995-4676-8c08-df7dc7bd40ac.png)
+
 
 Los roles se establecen de forma fija. Sin embargo, cualquier persona del equipo de desarrollo puede colaborar en otro sector o tarea siendo de apoyo en un rol diferente al suyo. Existen roles incluidos dentro de los definidos. Por ejemplo, el Scrum Master a su vez será el que realiza las acciones de un ingeniero DevOps. Otro tema es el testing, cada desarrollador se encarga de realizar las pruebas sobre lo que él mismo desarrolló; igualmente se hace un testeo a todo el entregable una vez se haya finalizado.
 
