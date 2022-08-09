@@ -26,5 +26,4 @@ public interface AgentDao<T> {
 	 * @return
 	 */
 	List<T> getAgents(String uuid);
-	
 }
