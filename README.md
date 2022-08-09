@@ -25,7 +25,8 @@ Primer Sprint (funcional). Gestión de usuarios y gestión de agentes.
 
 **Scrum Master:** Julián Leonardo Moreno Lesmes.
 
-**Scrum Team:** 
+**Scrum Team:**
+
 ![image](https://user-images.githubusercontent.com/71906366/183544588-b0b5ef34-cb6f-4f40-94c8-eda7a62f6b8a.png)
 ![image](https://user-images.githubusercontent.com/71906366/183544654-94f84a73-21d1-42df-8795-753aa8a066f0.png)
 ![image](https://user-images.githubusercontent.com/71906366/183544674-0662e922-931f-4ccd-b779-37147f34c37b.png)
