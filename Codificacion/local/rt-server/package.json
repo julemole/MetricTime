@@ -1,0 +1,22 @@
+{
+  "name": "rt-server",
+  "version": "1.0.0",
+  "description": "Broker server using mqtt protocol and Pub/Sub pattern to publish metrics to suscribe clients",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.5.2",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0",
+    "redis": "^3.0.2",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
