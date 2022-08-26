@@ -16,7 +16,7 @@ MetricTime es una aplicación web que permite la gestión de diferentes métrica
     ● Documentación técnica y de usuario.
     ● Software para ejecución en hardware.
 
-### Primer entregable de desarrollo (funcional).
+### Primer entregable de desarrollo (funcional) - Requerimiento Principal.
 Primer Sprint (funcional). Gestión de usuarios y gestión de agentes.
 
 ### Metodologia (Scrum)
